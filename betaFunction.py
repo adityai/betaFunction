@@ -1,3 +1,5 @@
+# Author: Aditya Inapurapu
+
 import math
 
 # Function to calculate Euler's beta function
